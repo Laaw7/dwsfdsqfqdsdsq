@@ -1,0 +1,30 @@
+.body {
+    background-color: white;
+}
+
+.madchat {
+    margin-top: 10%;
+    text-align: center;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: antiquewhite;
+}
+
+
+
+.description {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.td {
+    border-bottom: 1px solid red;
+    height: 100px;
+}
+
+.table {
+    align-items: center;
+}
